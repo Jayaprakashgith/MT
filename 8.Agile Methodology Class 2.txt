@@ -2,7 +2,7 @@ Agile Ceremonies:
 -----------------
 1.Sprint Groooming:
 -------------------
-	-->Attended by - Product Owner, Scrum Master and Scrum Team.
+	-->Attended by -Product Owner, Scrum Master and Scrum Team.
 	-->Meeting Duration - 1 hour.
 	-->Here the product owner will have already prioritized product backlog.
 	-->Product owner will take some set of userstories from Product backlog and explain.
@@ -16,7 +16,7 @@ Agile Ceremonies:
 	-->Userstory points will be given by Developers based on complexity by using Pocker card technique which is based on Fibonacci series.
 	-->Selected userstories will be moved from Product backlog to Sprint backlog.
 		       
----------|BeforeSprint|-------------------------------------------------------------------
+------------------------------|BeforeSprint|--------------------------------------------
 
 
 3.Daily Scrum Meeting (or) Daily Stand up calls:
@@ -29,7 +29,7 @@ Agile Ceremonies:
 		--> What will I work on today?
 		--> Am I blocked by anything?
 
----------|After Sprint|---------------------------------------------------------------------
+------------------------------|After Sprint|----------------------------------------------
 
 	
 4.Sprint Review Meeting:
@@ -47,9 +47,3 @@ Agile Ceremonies:
 		--> What went right?
 		--> What went wrong?
 		--> What can be done better for next sprint?
-
-
-
-
-
-	
